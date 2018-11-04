@@ -4,6 +4,7 @@ color 1B
 TITLE Aion German - Game Server Console
 REM SET PATH="Type here your path to java jdk/jre (including bin folder)."
 REM NOTE: Remove tag REM from previous line.
+REM EX: SET PATH="C:\Program Files\Java\jre7\bin"
 :START
 CLS
 

@@ -2,6 +2,7 @@
 mode con:cols=150 
 color 1B 
 TITLE Aion German - Game Server Console
+REM EX: SET PATH="C:\Program Files\Java\jre7\bin"
 :START
 CLS
 SET JAVAVER=1.7

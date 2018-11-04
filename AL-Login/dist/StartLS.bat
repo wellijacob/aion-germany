@@ -1,5 +1,6 @@
 @ECHO off
 TITLE Aion German - Login Server Console
+REM EX: SET PATH="C:\Program Files\Java\jre7\bin"
 :START
 CLS
 IF "%MODE%" == "" (
